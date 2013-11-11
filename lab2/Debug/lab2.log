@@ -1,0 +1,85 @@
+﻿Build started 10/31/2013 9:04:21 PM.
+     1>Project "C:\Users\lenovo\Desktop\Tema-1 EGC\lab2\lab2.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /Idependente /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Framework\DrawingWindow.cpp Framework\Transform2D.cpp Framework\Visual2D.cpp lodepng.cpp main.cpp tga.cpp
+         tga.cpp
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\tga.cpp(64): warning C4244: '=' : conversion from 'std::streamoff' to 'unsigned long', possible loss of data
+         main.cpp
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\framework\object2d.h(42): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\framework\rectangle2d.h(103): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\framework\rectangle2d.h(107): warning C4305: 'argument' : truncation from 'double' to 'GLclampf'
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\framework\circle2d.h(24): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\framework\circle2d.h(48): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\main.cpp(59): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdlib.h(909) : see declaration of 'itoa'
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\main.cpp(31): warning C4101: 'j' : unreferenced local variable
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\main.cpp(93): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\main.cpp(100): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\main.cpp(105): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\main.cpp(106): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\main.cpp(114): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\main.cpp(116): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\main.cpp(118): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\main.cpp(120): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\main.cpp(133): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\main.cpp(134): warning C4305: 'argument' : truncation from 'double' to 'float'
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\main.cpp(151): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\main.cpp(154): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\main.cpp(157): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\main.cpp(157): warning C4996: 'itoa': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _itoa. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdlib.h(909) : see declaration of 'itoa'
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\main.cpp(185): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\main.cpp(196): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\main.cpp(213): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\main.cpp(257): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\main.cpp(264): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\main.cpp(270): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\main.cpp(276): warning C4305: '=' : truncation from 'double' to 'float'
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\main.cpp(319): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\main.cpp(334): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\main.cpp(335): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\main.cpp(343): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+         lodepng.cpp
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\lodepng.cpp(367): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\lodepng.cpp(389): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+         Visual2D.cpp
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\framework\object2d.h(42): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\framework\rectangle2d.h(103): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\framework\rectangle2d.h(107): warning C4305: 'argument' : truncation from 'double' to 'GLclampf'
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\framework\visual2d.cpp(91): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\framework\visual2d.cpp(92): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\framework\visual2d.cpp(93): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\framework\visual2d.cpp(94): warning C4244: '=' : conversion from 'float' to 'int', possible loss of data
+         Transform2D.cpp
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\framework\object2d.h(42): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\framework\transform2d.cpp(161): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\framework\transform2d.cpp(184): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\framework\transform2d.cpp(200): warning C4018: '<' : signed/unsigned mismatch
+         DrawingWindow.cpp
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\framework\object2d.h(42): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\framework\drawingwindow.cpp(56): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\framework\drawingwindow.cpp(60): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\framework\drawingwindow.cpp(179): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\framework\drawingwindow.cpp(183): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\framework\drawingwindow.cpp(199): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\framework\drawingwindow.cpp(404): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\framework\drawingwindow.cpp(421): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\framework\drawingwindow.cpp(438): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\framework\drawingwindow.cpp(455): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\lenovo\desktop\tema-1 egc\lab2\framework\drawingwindow.cpp(473): warning C4018: '<' : signed/unsigned mismatch
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lenovo\Desktop\Tema-1 EGC\Debug\Tema 1.exe" /INCREMENTAL /NOLOGO /LIBPATH:dependente freeglut.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\lenovo\Desktop\Tema-1 EGC\Debug\Tema 1.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\lenovo\Desktop\Tema-1 EGC\Debug\Tema 1.lib" /MACHINE:X86 Debug\DrawingWindow.obj
+         Debug\Transform2D.obj
+         Debug\Visual2D.obj
+         Debug\lodepng.obj
+         Debug\main.obj
+         Debug\tga.obj
+         lab2.vcxproj -> C:\Users\lenovo\Desktop\Tema-1 EGC\Debug\Tema 1.exe
+     1>Done Building Project "C:\Users\lenovo\Desktop\Tema-1 EGC\lab2\lab2.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.38
